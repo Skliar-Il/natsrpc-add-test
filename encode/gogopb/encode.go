@@ -1,7 +1,7 @@
 package gogopb
 
 import (
-	"github.com/golang/protobuf/proto"
+	"google.golang.org/protobuf/proto"
 )
 
 type Encoder struct {
