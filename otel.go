@@ -34,4 +34,3 @@ func otelExtract(ctx context.Context) context.Context {
 	}
 	return ctx
 }
-
