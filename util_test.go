@@ -1,4 +1,4 @@
-package natsrpc_test
+package natsrpc
 
 import "testing"
 
